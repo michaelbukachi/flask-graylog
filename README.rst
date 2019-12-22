@@ -13,7 +13,7 @@ You can install it via `pip`:
 
 .. code:: bash
 
-    pip install Flask-Graylog
+    pip install git+git://github.com/michaelbukachi/flask-graylog.git#egg=flask-graylog
 
 
 Usage
